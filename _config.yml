@@ -1,8 +1,8 @@
-# theme: jekyll-theme-minimal
-# title: Ana Flores 
-# description: Webpage in progress
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Ana Flores
-description: Plant functional ecology graduate student - Webpage in progress!
+theme: jekyll-theme-minimal
+title: Ana Flores 
+description: Webpage in progress
+# remote_theme: pages-themes/slate@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# title: Ana Flores
+# description: Plant functional ecology graduate student - Webpage in progress!
