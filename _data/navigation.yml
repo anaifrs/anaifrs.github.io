@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /Research/
+  - title: "Outreach & Teaching"
+    url: /outreach-teaching/
+  - title: "Contact"
+    url: /contact/
