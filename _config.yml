@@ -59,10 +59,10 @@ author:
   avatar : "/assets/images/measuring-leaf.jpg"
   bio    : " Botany PhD Candidate <br> University of Hawaiʻi at Mānoa <br> Site in Progress; Check Back Soon"
   links:
-    - label: "Website"
+    - label: "anaifrs.github.io"
       icon: "fas fa-fw fa-link"
       url: "https://anaifrs.github.io/"
-    - label: "Twitter"
+    - label: "@anaifrs"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/anaifrs"
     - label: "GitHub"
@@ -74,15 +74,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "ANAIFRS"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/"
 
 defaults:
   # _posts
