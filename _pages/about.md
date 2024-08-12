@@ -1,6 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: ""
 ---
+## About me 
 
+## CV 
 
