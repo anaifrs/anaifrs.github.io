@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/IMG_3390.jpg"
   bio    : "Graduate student pursuing PhD in Botany at University of Hawaii at Manoa <br> Site in Progress; Check back soon"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:anaifrs@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
