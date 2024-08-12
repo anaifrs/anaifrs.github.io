@@ -1,10 +1,9 @@
 ---
-title:
+title: "Contact"
 header:
- overlay_image: /assets/images/waikiki.jpg
+ overlay_image: /assets/images/IMG_3390.jpg
 permalink: /contact/
 tags:
-- people
 ---
 **Email**  anaifrs@gmail.com 
 
