@@ -1,4 +1,4 @@
 ---
 permalink: /sundry/
-title: "Blog & Sundry"
+title: 
 ---
