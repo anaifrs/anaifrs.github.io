@@ -85,6 +85,16 @@ footer:
       #url: "https://instagram.com/"
 
 defaults:
+    # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: false
+      class: wide
+      title: " "
+      title_separator: "|"
   # _posts
   - scope:
       path: ""
