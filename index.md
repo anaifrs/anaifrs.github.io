@@ -1,4 +1,4 @@
 
-<img align="center" alt="Diversification" src="among-the-ferns.JPG">
+<img align="center" alt="Plant Functional and Physiological Ecology" src="among-the-ferns.JPG">
 
 Welcome to my site! 
