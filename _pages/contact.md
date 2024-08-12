@@ -1,7 +1,8 @@
 ---
-title: "Contact"
+title: ""
+header:
+    overlay_image: /assets/images/heeia-view.jpg
 permalink: /contact/
-tags:
 ---
 **Email**  anaifrs@gmail.com 
 
