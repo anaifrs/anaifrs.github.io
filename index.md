@@ -1,4 +1,4 @@
 
-<img align="center" alt="Plant Functional and Physiological Ecology" src="IMG_0910.JPG">
+<img align="center" alt="Plant Functional and Physiological Ecology" src="">
 
-Welcome to my site! 
+Welcome to my site! Please pardon the mess while I build it. 
