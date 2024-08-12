@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Ana Flores"
   avatar : "/assets/images/measuring-leaf.jpg"
-  bio    : " Botany PhD Candidate, University of Hawaiʻi at Mānoa <br> Site in Progress; Check back soon"
+  bio    : " Botany PhD Candidate <br> University of Hawaiʻi at Mānoa <br> Site in Progress; Check back soon"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
