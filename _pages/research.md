@@ -6,7 +6,7 @@ title: ""
 
 ## Plant response to drought
 
-### Other Research
+## Other Research
 
 ### Publications 
 1. Woolridge, C.B., Fant, J.B., **Flores, A.I.**, Schultz, K. and Kramer, A.T. (2023), Variation in overall fitness due to seed source: projections for predictive provenancing. Restor Ecol, 31: e13717. https://doi.org/10.1111/rec.13717
