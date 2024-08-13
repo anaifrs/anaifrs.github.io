@@ -1,4 +1,10 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
 ---
+## Plant functional trait variation across ontogeny
+
+
+## Plant response to drought 
+
+
