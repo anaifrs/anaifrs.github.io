@@ -60,16 +60,16 @@ author:
   bio    : " Botany PhD Candidate <br> University of Hawaiʻi at Mānoa <br> Site in Progress; Check Back Soon"
   links:
     - label: "anaifrs.github.io"
-      icon: <i class="fa-solid fa-link"></i>
+      icon: "fa-solid fa-link"
       url: "https://anaifrs.github.io/"
     - label: "@anaifrs"
-      icon: <i class="fa-brands fa-twitter"></i>
+      icon: "fa-brands fa-twitter"
       url: "https://x.com/anaifrs"
     - label: "GitHub"
-      icon: <i class="fa-brands fa-github"></i>
+      icon: "fa-brands fa-github"
       url: "https://github.com/"
     - label: "Email"
-      icon: <i class="fa-solid fa-envelope"></i>
+      icon: "fa-solid fa-envelope"
       url: "mailto:anaifrs@gmail.com"
 
 footer:
