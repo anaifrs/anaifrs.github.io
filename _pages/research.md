@@ -8,7 +8,7 @@ title: ""
 
 ### Other Research
 
-Publications 
+### Publications 
 
 Barton, K. E., Carpenter, J., **Flores, A.**, Saez, L., Armani, M. (2024). Spinescence and the Island Plant Syndrome. In Moreira, X., and Abdala-Roberts, L. (Eds.), Ecology and evolution of plant-herbivore interactions on islands. Springer.
 
