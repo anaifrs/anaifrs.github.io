@@ -1,5 +1,5 @@
 ---
-permalink: /outreach-teaching/
+permalink: /outreach/
 title: ""
 --- 
 ### Outreach 
