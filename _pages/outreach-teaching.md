@@ -10,5 +10,7 @@ Planting Science is a program run by the Education branch of the Botanical Socie
 
 <iframe src="https://www.youtube.com/embed/hqW2XGYGFAY?si=WFx03pLR0D2HRAhR" title="YouTube video player" frameborder="0" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Other Synergistic Activities
+### Plant of the Month - Hawaiʻi Botanical Society 
+
+[slides]
 
