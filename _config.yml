@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : 
   avatar : "/assets/images/measuring-leaf.jpg"
   bio    : " Botany PhD Candidate <br> University of Hawaiʻi at Mānoa <br> Site in Progress; Check Back Soon"
   links:
