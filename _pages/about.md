@@ -3,11 +3,11 @@ permalink: /about/
 title: "" 
 ---
 ### About me 
-I’m a plant ecologist broadly interested in functional trait variation in response in abiotic stress, and how that contributes to lifetime strategies of plant function.
+I’m a plant ecologist broadly interested in how plant functional traits shift in predictable and unpredictable environments, how these shifts may be adaptive via phenotypic plasticity or other mechanisms, and ultimately how  these contribute to lifetime strategies of plant function.
 
 ### CV 
 
-Full CV [here](https://drive.google.com/file/d/1pRSEWFb14nURrn3clH_aAidlWG7RNBmA/view)
+Full CV [here](https://drive.google.com/file/d/1tW0Ad8HPmigoXbDYCtXeum4lRNPRIHny/view)
 
 
 
